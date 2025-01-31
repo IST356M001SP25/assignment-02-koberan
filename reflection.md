@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kobe Sukhatme
+Sudent Email:  kmsukhat@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In today's assignment, I learned how to parse text inputs. The hardest part of this lab was debugging as I was stuck on passing 3/4 tests for a long time. I think I finally figured it out by running python -m pytest tests and it said "4 passed." I think the issue had to do with the test_assignment.py file not reading the code.packaging correctly.
